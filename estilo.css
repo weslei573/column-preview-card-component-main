@@ -67,25 +67,6 @@ body {
     border-bottom-right-radius: 10px;
 }
 
-.image {
-    width: 70px;
-    height: 42px;
-}
-
-div#q1 {
-    background-image: url('/images/icon-sedans.svg');
-    background-repeat: no-repeat;
-}
-
-div#q2 {
-    background-image: url('/images/icon-suvs.svg');
-    background-repeat: no-repeat;
-}
-
-div#q3 {
-    background-image: url('/images/icon-luxury.svg');
-    background-repeat: no-repeat;
-}
 
 .box h1 {
     font-family: 'Big Shoulders Display', sans-serif;
